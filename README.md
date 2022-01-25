@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Black Goose Bistro</title>
+   <style>
+  body {
+    background-color: #faf2e4;
+    margin: 0 10%;
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+  }
+  h2 {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #d1633c;
+    font-size: 1em;
+    margin-top: 30px;
+  }
+  h3 {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #d1633c;
+    font-size: 1em;
+    margin-top: 30px;
+  }
+  h4 {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #d1633c;
+    font-size: 1em;
+    margin-top: 30px;
+  }
+  p {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0 10%;
+    margin-top: 30px;
+  }
+   </style>
+ </head>
+<body>
+<h1><img src="blackgoose.png" alt="logo"><br>Black Goose Bistro</h1>
+<h2>The Restaurant</h2>
+<p>The Black Goose Bistro offers casual lunch and dinner fare in a relaxed atmosphere. The menu changes regularly to highlight the freshest local ingredients.</p>
 
-You can use the [editor on GitHub](https://github.com/alisonmcg1/fid/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h3>Catering</h3>
+<p>You have fun. <em>We'll handle the cooking.</em> Black Goose Catering can handle events from snacks for a meetup to elegant corporate fundraisers.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h4>Location and Hours</h4>
+<p>Seekonk, Massachusetts;<br>
+Monday through Thursday 11am to 9pm;<br> Friday and Saturday, 11am to midnight.</p>
+</body>
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alisonmcg1/fid/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
